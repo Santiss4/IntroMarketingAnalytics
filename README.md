@@ -3,11 +3,6 @@ AUTOR: SANTIAGO CAICEDO LEON
 Saltar al contenido
 Historial del chat
 
-Dijiste:
-quiero crear una descripcion para un repositorio de trabajo de marketin analytics y quiero que el resultado me lo des en Markdown
-ChatGPT dijo:
-Perfecto, aquí tienes un ejemplo de descripción en Markdown para un repositorio de trabajo de Marketing Analytics. Puedes personalizarlo según tus herramientas, lenguajes o proyectos específicos:
-
 # 📊 Marketing Analytics
 
 Este repositorio contiene análisis, herramientas y reportes desarrollados para optimizar estrategias de marketing basadas en datos. Está orientado a mejorar la toma de decisiones mediante la interpretación de métricas clave, modelos estadísticos y visualización de datos.
